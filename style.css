@@ -1,0 +1,16 @@
+body {
+    background-color: snow;
+}
+
+.card-body {
+    padding-top: 30px;
+}
+
+.card img {
+    max-height: 350px;
+    padding: 20px;
+    margin-top: 50px; 
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
