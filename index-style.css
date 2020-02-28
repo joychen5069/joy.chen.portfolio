@@ -21,4 +21,14 @@ h4 {
 .about-me {
     display: inline-block;
     margin-left: 20px;
+    margin-right: 10px;
 }
+
+.footer {
+    bottom: 0;
+    background-color: #0078e0;
+    color: white;
+    position: absolute;
+    width: 100%;
+}
+

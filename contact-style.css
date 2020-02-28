@@ -1,0 +1,19 @@
+body {
+    background-color: snow;
+}
+
+.card {
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+
+}
+
+
+.footer {
+    bottom: 0;
+    background-color: #0078e0;
+    color: white;
+    position: absolute;
+    width: 100%;
+}
