@@ -1,15 +1,16 @@
+/*background colo. make sure it doesnt clash*/
 body {
     background-color: snow;
 }
 
+/*move card down so it isnt against the menu*/
 .card {
     padding-top: 10px;
     padding-left: 10px;
     padding-bottom: 20px;
-
 }
 
-
+/*make sure footer stays on bottom*/
 .footer {
     bottom: 0;
     background-color: #0078e0;

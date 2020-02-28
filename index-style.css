@@ -1,29 +1,31 @@
+/*background color, don't let it clash with header color*/
 body {
     background-color: snow;
 }
+ /*thumbnail spacing*/
+.col-md-3 {
+    padding-left: 15px;
+    margin-left: 15px;
+}
 
+/*Center About Me over thumbnail*/
 h4 {
-    text-align: center;
+   text-align: center;
 }
 
-.col-3 {
-    padding-right: 0;
-}
-
-.card {
-    padding-top: 15px;
-}
-
-.img-thumbnail {
-    margin-left: 10px;
-}
-
+/*put text next to thumbnail*/
 .about-me {
     display: inline-block;
     margin-left: 20px;
     margin-right: 10px;
 }
 
+/*Keep card body off top of card*/
+.card {
+    padding-top: 15px;
+}
+
+/*keep footer on bottom of page*/
 .footer {
     bottom: 0;
     background-color: #0078e0;

@@ -1,23 +1,25 @@
+/*background color. make sure you can see header clearly*/
 body {
     background-color: snow;
 }
 
+/*add space underneath card rows*/
 .card-deck {
     padding-bottom: 20px;
 }
 
+/*add spacing for cards individually*/
 .card {
     padding-top: 10px;
     padding-left: 10px;
     padding-bottom: 20px;
-
+    margin-top: 15px;
 }
 
-
+/*make sure footer stays on the bottom*/
 .footer {
-    bottom: 0;
+    bottom: -100;
     background-color: #0078e0;
     color: white;
-    position: absolute;
     width: 100%;
 }
