@@ -23,14 +23,16 @@ h4 {
 /*Keep card body off top of card*/
 .card {
     padding-top: 15px;
+    margin-bottom: 20px;
 }
 
 /*keep footer on bottom of page*/
 .footer {
     bottom: 0;
+    left: 0;
     background-color: #0078e0;
     color: white;
-    position: absolute;
+    position: fixed;
     width: 100%;
 }
 

@@ -1,6 +1,12 @@
 /*background color. make sure you can see header clearly*/
 body {
-    background-color: snow;
+    background-color: rgb(246, 241, 232);
+}
+
+.navbar,
+.navbar-brand {
+    text-align: center;
+    background-color: #022a4d;
 }
 
 /*add space underneath card rows*/
@@ -18,8 +24,11 @@ body {
 
 /*make sure footer stays on the bottom*/
 .footer {
-    bottom: -100;
+    bottom: 0;
+    left: 0;
     background-color: #0078e0;
     color: white;
+    position: fixed;
     width: 100%;
 }
+

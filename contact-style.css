@@ -13,8 +13,9 @@ body {
 /*make sure footer stays on bottom*/
 .footer {
     bottom: 0;
+    left: 0;
     background-color: #0078e0;
     color: white;
-    position: absolute;
+    position: fixed;
     width: 100%;
 }
