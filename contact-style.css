@@ -16,6 +16,7 @@ body {
     padding-bottom: 20px;
 }
 
+/*change button color to match header/footer*/
 .btn-info {
     background-color: #004179;
     border-color: #004179;

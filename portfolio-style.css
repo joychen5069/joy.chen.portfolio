@@ -8,6 +8,7 @@ body {
 .navbar-brand {
     background-color: #022a4d;
 }
+
 /*add space underneath card rows*/
 .card-deck {
     padding-bottom: 20px;
